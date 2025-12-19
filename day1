@@ -11,7 +11,4 @@ for i in range(10):
            Count=Count+1
            print(Count)
 
-    for i in range(15)
-    
-
-        
+       for i in range(15):  

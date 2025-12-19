@@ -1,0 +1,10 @@
+list = [0,1,0,1,0]
+zeros =[]
+ones = []
+for i in list:
+    if i == 0:
+        zeros.append(i)
+    else:
+        ones.append(i)
+        result = zeros + ones
+    print(result)
